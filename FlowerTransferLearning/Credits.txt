@@ -1,0 +1,25 @@
+
+Resnet Paper
+------------
+Deep Residual Learning for Image Recognition
+Kaiming He Xiangyu Zhang Shaoqing Ren Jian Sun
+https://arxiv.org/pdf/1512.03385.pdf
+
+17 Category Flower Dataset
+--------------------------
+https://www.robots.ox.ac.uk/~vgg/data/flowers/17/
+Maria-Elena Nilsback and Andrew Zisserman
+
+Pytorch Transfer Learning Tutorial 
+----------------------------------
+https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html 
+Author of the code -> Sasank Chilamkurthy
+
+Pytorch Course
+--------------
+https://www.udacity.com/course/deep-learning-pytorch--ud188 
+Instructors
+Mat Leonard
+Cezanne Camacho
+Alexis Cook
+Luis Serrano
