@@ -1,0 +1,30 @@
+
+#Data#
+
+The paper
+---
+From Group to Individual Labels using Deep Features', Kotzias et. al,. KDD 2015
+
+Source
+---
+Dimitrios Kotzias dkotzias '@' ics.uci.edu
+
+Yelp
+---
+yelp: Yelp dataset challenge http://www.yelp.com/dataset_challenge
+yelp.com
+
+
+UCI
+---
+Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science. 
+
+
+#Scikit learn#
+https://scikit-learn.org
+Scikit-learn: Machine Learning in Python, Pedregosa et al., JMLR 12, pp. 2825-2830, 2011.
+
+
+#NLTK#
+Bird, Steven, Edward Loper and Ewan Klein (2009), Natural Language Processing with Python. O’Reilly Media Inc.
+https://www.nltk.org/
