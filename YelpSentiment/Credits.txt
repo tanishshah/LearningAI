@@ -24,7 +24,13 @@ Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ic
 https://scikit-learn.org
 Scikit-learn: Machine Learning in Python, Pedregosa et al., JMLR 12, pp. 2825-2830, 2011.
 
-
 #NLTK#
 Bird, Steven, Edward Loper and Ewan Klein (2009), Natural Language Processing with Python. O’Reilly Media Inc.
 https://www.nltk.org/
+
+#Spark NLP#
+https://nlp.johnsnowlabs.com/
+
+#Google Collab#
+https://colab.research.google.com/
+
