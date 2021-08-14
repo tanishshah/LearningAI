@@ -39,5 +39,21 @@ Website
 --------
 https://scikit-learn.org/
 
+########
+#PySpark
+########
+
+Website
+-------
+https://spark.apache.org/docs/latest/api/python/
+
+##############
+#Google Collab
+##############
+Website
+-------
+https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index
+
+
 
 
